@@ -18,11 +18,11 @@ Provide actionable insights for business decisions.
 
 📂 Files Included
 
-Coffee Shop Sales Damaris Paez.xlsx - The dataset containing transaction records.
+Coffee Shop Sales.xlsx - The dataset containing transaction records.
 
-Damaris Paez Coffee Shop Analysis.pdf - A self-contained presentation summarizing the findings.
+Coffee Shop Analysis.pdf - A self-contained presentation summarizing the findings.
 
-Coffee Shop Sales Map Damaris Paez.twb - A Tableau workbook containing a geographic visualization of sales data.
+Coffee Shop Sales Map.twb - A Tableau workbook containing a geographic visualization of sales data.
 
 🔍 Key Insights
 
@@ -44,7 +44,7 @@ Implement promotions to boost sales during lower-performing months.
 
 🛠️ Tools Used
 
-Microsoft Excel (Data Cleaning & Analysis)
+Microsoft Excel (Data Cleaning, Analysis, & Visualization)
 
 PowerPoint (Visualization & Presentation)
 
@@ -56,4 +56,5 @@ Dataset: Kaggle - Coffee Sales
 
 🚀 About the Author
 
-Damaris PaezFor any inquiries, feel free to connect: DamarisPaez@my.unt.edu
+Damaris Paez 
+For any inquiries, feel free to connect: DamarisPaez@my.unt.edu
